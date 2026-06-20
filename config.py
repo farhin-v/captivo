@@ -39,6 +39,6 @@ OCCASIONS = [
     "Holi",
     "Independence Day",
     "New Year",
-    "Weekend Sale"
+    "Weekend Sale",
     "Yearly sale"
 ]
