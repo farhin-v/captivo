@@ -39,7 +39,7 @@ Enter your product name, price, category and occasion. Captivo generates a profe
 ## Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/03-home.png)
+![Home Screen](screenshots/03-home-screen.png)
 
 ### English Caption Generated
 ![English Caption](screenshots/01-english-caption.png)
