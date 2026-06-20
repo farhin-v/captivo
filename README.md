@@ -5,6 +5,7 @@ colorFrom: purple
 colorTo: pink
 sdk: docker
 app_port: 8501
+pinned: false
 ---
 
 # Captivo
