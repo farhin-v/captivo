@@ -1,0 +1,15 @@
+name: Keep HF Spaces Alive
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */12 * * *'
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Captivo
+        run: |
+          curl -s -A "Mozilla/5.0" \
+          https://farhin-v-captivo.hf.space > /dev/null
