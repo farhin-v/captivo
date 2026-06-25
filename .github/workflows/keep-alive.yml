@@ -12,4 +12,4 @@ jobs:
       - name: Ping Captivo
         run: |
           curl -s -A "Mozilla/5.0" \
-          https://farhin-v-captivo.hf.space > /dev/null
+          https://farhin-v-Captivo.hf.space > /dev/null
